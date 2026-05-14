@@ -141,7 +141,7 @@ Recommended `package.json` shape:
   "files": ["dist"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alvinunreal/openpets.git",
+    "url": "git+https://github.com/openpetstech/openpets.git",
     "directory": "packages/pi"
   },
   "pi": {

@@ -44,7 +44,7 @@ Install the desktop app, then connect your coding agent.
 
 ### 1. Install OpenPets Desktop
 
-Download the latest app from [OpenPets Releases](https://github.com/alvinunreal/openpets/releases/latest):
+Download the latest app from [OpenPets Releases](https://github.com/openpetstech/openpets/releases/latest):
 
 - **macOS Apple Silicon**: `OpenPets-*-mac-arm64.dmg`
 - **macOS Intel**: `OpenPets-*-mac-x64.dmg`
